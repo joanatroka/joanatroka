@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joanatroka
 - 👀 I’m interested in molecular and cellular biology.
 - 🌱 I’m currently learning to code.
-- 💞️ I’m looking to collaborate on any research project that interests me.
 - 📫 How to reach me ...
 
 <!---
